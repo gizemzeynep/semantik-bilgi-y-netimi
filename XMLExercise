@@ -1,0 +1,83 @@
+<CATALOG>
+
+<movie>
+  <name>Texas Chainsaw Massacre</name>
+  <directed>David Blue Garcia</directed>
+  <year>2022</year>
+  <rating>4.9</rating>
+  <runtime>1h 23m</runtime>
+</movie>
+
+<movie>
+  <name>Coherence</name>
+  <directed>James Ward Byrkit</directed>
+  <year>2013</year>
+  <rating>7.2</rating>
+  <runtime>1h 29m</runtime>
+</movie>
+
+<movie>
+  <name>About Time</name>
+  <directed>Richard Curtis</directed>
+  <year>2013</year>
+  <rating>7.8</rating>
+  <runtime>2h 3m</runtime>
+</movie>
+
+<movie>
+  <name>The Notebook</name>
+  <directed>DNick Cassavetes</directed>
+  <year>2004</year>
+  <rating>7.8</rating>
+  <runtime>2h 3m</runtime>
+</movie>
+
+<movie>
+  <name>The Age of Adaline</name>
+  <directed>Lee Toland Krieger</directed>
+  <year>2015</year>
+  <rating>7.2</rating>
+  <runtime>1h 52m</runtime>
+</movie>
+
+<movie>
+  <name>Dune: Part One</name>
+  <directed>Denis Villeneuve</directed>
+  <year>2021</year>
+  <rating>8.1</rating>
+  <runtime>2h 35m</runtime>
+</movie>
+
+<movie>
+  <name>Red Notice</name>
+  <directed>Rawson Marshall Thurber</directed>
+  <year>2021</year>
+  <rating>6.4</rating>
+  <runtime>1h 58m</runtime>
+</movie>
+
+<movie>
+  <name>Spider-Man: No Way Home</name>
+  <directed>Jon Watts</directed>
+  <year>2021</year>
+  <rating>8.7</rating>
+  <runtime>2h 28m</runtime>
+</movie>
+
+<movie>
+  <name>Pieces of a Woman</name>
+  <directed>Denis Villeneuve</directed>
+  <year>2020</year>
+  <rating>7.0</rating>
+  <runtime>2h 6m</runtime>
+</movie>
+
+<movie>
+  <name>Interstellar</name>
+  <directed>Christopher Nolan</directed>
+  <year>2014</year>
+  <rating>8.7</rating>
+  <runtime>2h 49m</runtime>
+</movie>
+
+</CATALOG>
